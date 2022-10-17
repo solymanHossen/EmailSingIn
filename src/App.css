@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.singIn{
+  padding: 10px 20px;
+  color: black;
+  background: green;
+  border-radius: 10px;
+  margin-top: 50vh;
+  border: none;
+
+}
